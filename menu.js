@@ -215,5 +215,5 @@ function filterByProperty(property, number, type) {
 */
 
 //CODE HERE
-console.log(filterByProperty('popularity', 2, 'below'))
-console.log(filterByProperty('price', 5, 'above'))
+// console.log(filterByProperty('popularity', 5, 'below'))
+console.log(filterByProperty('price', 8, 'below'))
